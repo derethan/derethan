@@ -28,11 +28,11 @@ I am currently enrolled in Get Coding's Software Development program, where I am
 </td>
 <td>
   
-<img src="https://github.com/derethan/derethan/blob/main/webdevicons.png" alt="RoastCard Logo" width="150px">
+<img src="https://github.com/derethan/derethan/blob/main/webdevicons.png" alt="DevIcons" width="150px">
 <br />
-<img src="https://github.com/derethan/derethan/blob/main/React-icon.svg.png" alt="RoastCard Logo" width="150px">
+<img src="https://github.com/derethan/derethan/blob/main/React-icon.svg.png" alt="React Logo" width="150px">
 <br />
-<img src="https://github.com/derethan/derethan/blob/main/Node.js_logo.svg" alt="RoastCard Logo" width="150px">
+<img src="https://github.com/derethan/derethan/blob/main/Node.js_logo.svg" alt="NodeJS Logo" width="150px">
 
 
 </td>
@@ -45,7 +45,7 @@ I am currently enrolled in Get Coding's Software Development program, where I am
 ## Completed Projects
 | Tech Stack  | Projects |
 | :---: | :---: |
-| ![RoastCard Logo](https://github.com/derethan/derethan/blob/main/rc_techstack.jpg)  | <a href="https://app.roastfromthecoast.com"><img src="https://github.com/derethan/derethan/blob/main/RC_logo.png" alt="RoastCard Logo"></a><br /> **Roast Card** <br /> "Roast Card" 📋☕ is an easy-to-use web interface that allows users to create their own custom coffee roasting log to suit their own style and needs. <br /> **Check out the App here:** [Roast Card](https://derethan.github.io/RoastCard/)|
+| ![RoastCard Logo](https://github.com/derethan/derethan/blob/main/rc_techstack.jpg)  | <a href="https://app.roastfromthecoast.com"><img src="https://github.com/derethan/derethan/blob/main/logo-color.png" alt="RoastCard Logo"></a><br /> **Roast Card** <br /> "Roast Card" 📋☕ is an easy-to-use web interface that allows users to create their own custom coffee roasting log to suit their own style and needs. <br /> **Check out the App here:** [Roast Card](https://derethan.github.io/RoastCard/)|
 
 
 
