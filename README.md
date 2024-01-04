@@ -45,7 +45,7 @@ I am currently enrolled in Get Coding's Software Development program, where I am
 ## Completed Projects
 | Tech Stack  | Projects |
 | :---: | :---: |
-| ![RoastCard Logo](https://github.com/derethan/derethan/blob/main/rc_techstack.jpg)  | ![RoastCard Logo](https://github.com/derethan/derethan/blob/main/RC_logo.png) <br /> **Roast Card** <br /> "Roast Card" 📋☕ is an easy-to-use web interface that allows users to create their own custom coffee roasting log to suit their own style and needs. <br /> **Check out the App here:** [Roast Card](https://derethan.github.io/RoastCard/)|
+| ![RoastCard Logo](https://github.com/derethan/derethan/blob/main/rc_techstack.jpg)  | <a href="https://app.roastfromthecoast.com"><img src="https://github.com/derethan/derethan/blob/main/RC_logo.png" alt="RoastCard Logo"></a><br /> **Roast Card** <br /> "Roast Card" 📋☕ is an easy-to-use web interface that allows users to create their own custom coffee roasting log to suit their own style and needs. <br /> **Check out the App here:** [Roast Card](https://derethan.github.io/RoastCard/)|
 
 
 
