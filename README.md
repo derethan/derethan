@@ -1,7 +1,10 @@
 <div align="center">
   
+![github-header-image(3)](https://github.com/derethan/derethan/assets/132785162/907e9d96-2393-4913-8725-bb00533c76c4)
+
 ## Welcome to my Gihub Portfolio, i'm Andrew Patterson
 ###  Aspiring Full Stack Developer with a Foundation in Manufacturing 
+
 
 </div>
 
